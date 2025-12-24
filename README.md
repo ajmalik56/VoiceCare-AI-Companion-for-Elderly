@@ -71,7 +71,7 @@ npm run dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 ## 🔑 API Keys Required
 
@@ -99,10 +99,6 @@ The demo showcases:
 - Emergency alert system simulation
 - Talk to agent by dialing Agent Phone Number
    
-## 🏆 Sponsor Integration
-
-- Fal API integration for enhanced voice effects
-- PostHog integration for LLM observability
 
 ## 📝 Additional Notes
 
@@ -111,18 +107,6 @@ The demo showcases:
 - MVP focuses on core reminder and communication features
 - Future updates will include editing and deleting capabilities
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
