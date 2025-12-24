@@ -48,23 +48,6 @@
 - **Frontend**: Next.js with TypeScript
 - **Styling**: Tailwind CSS
 
-## 🚀 Getting Started
-
-First, install the dependencies:
-
-```bash
-npm install
-# or
-pnpm install
-```
-
-Then, run the development server:
-
-```bash
-npm run dev
-# or
-pnpm dev
-```
 
 
 
